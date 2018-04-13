@@ -1,3 +1,11 @@
+#%% ***********************************************************************
+# RNN Study materials
+#  File Name:RNN_Exercise_Strings
+#  Description: Simple RNN Study materials follow up Sunghoon Kim's Lecture
+#  Reference: https://www.youtube.com/user/hunkims
+#  Authors: Sunghoon Kim
+#  Revision: Kyuhwan Yeon (KyuhwanYeon@gmail.com)
+# *************************************************************************
 from __future__ import print_function
 
 import tensorflow as tf

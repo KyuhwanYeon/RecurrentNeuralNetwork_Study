@@ -1,3 +1,12 @@
+#%% ***********************************************************************
+# RNN Study materials
+#  File Name:RNN_Exercise_Strings
+#  Description: Simple RNN Study materials follow up Sunghoon Kim's Lecture
+#  Reference: https://www.youtube.com/user/hunkims
+#  Authors: Sunghoon Kim
+#  Revision: Kyuhwan Yeon (KyuhwanYeon@gmail.com)
+# *************************************************************************
+
 # -*- coding: utf-8 -*-
 """
 Created on Thu Aug  3 09:22:47 2017
